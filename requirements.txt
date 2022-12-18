@@ -1,0 +1,5 @@
+tensorflow
+collections
+collections 
+numpy 
+matplotlib.pyplot 
