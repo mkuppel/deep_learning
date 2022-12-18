@@ -1,4 +1,5 @@
-tensorflow
+tensorflow 
 collections
-numpy 
+collections import Counter
+numpy
 matplotlib.pyplot 
