@@ -1,4 +1,3 @@
 tensorflow
-collections
 numpy
 matplotlib.pyplot
