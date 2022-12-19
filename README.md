@@ -2,4 +2,4 @@
 
 This is my software contribution for my deep learning project.
 
-https://hub.gke2.mybinder.org/user/mkuppel-deep_learning-b3srjn83/doc/tree/software_contribution.ipynb
+https://mybinder.org/v2/gh/mkuppel/deep_learning/8fa6373852264597b2ce14dc683843ae2fe53a36?urlpath=lab%2Ftree%2Fsoftware_contribution.ipynb
