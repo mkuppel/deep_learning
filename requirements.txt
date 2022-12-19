@@ -1,4 +1,3 @@
-python_version==3.10.8
 tensorflow
 numpy
 matplotlib.pyplot
